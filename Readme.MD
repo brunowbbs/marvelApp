@@ -25,7 +25,6 @@ Para a construção da aplicação, foram utilizadas as seguintes tecnologias:
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Navigation](https://reactnavigation.org/)
-  /IjzerenHein/react-navigation-shared-element)
 - [Axios](https://github.com/axios/axios)
 - [Styled Components](https://styled-components.com/)
 
