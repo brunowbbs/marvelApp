@@ -51,7 +51,7 @@ Para a construção da aplicação, foram utilizadas as seguintes tecnologias:
 
 ```bash
   # Iniciar a aplicação:
-  $ expo start || yarn ios || yarn android
+  $ yarn ios || yarn android
 ```
 
 Feito por Wesley Bruno 👋🏻 [Get in touch!](https://github.com/brunowbbs)
