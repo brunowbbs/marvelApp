@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Marvel" src="https://e7.pngegg.com/pngimages/419/220/png-clipart-logo-marvel-comics-marvel-entertainment-marvel-studios-others-comics-avengers.png" width="250px" />
+  <img alt="Marvel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/2560px-Marvel_Logo.svg.png" width="250px" />
 </h1>
 
 <p align="center">
