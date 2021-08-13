@@ -11,8 +11,7 @@
 </p>
 
 <h1 align="center">
-  <img alt="Home" src="./src/gifs/home.gif" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Details" src="./src/gifs/details.gif" width="250" />
+  <img alt="Home" src="./src/gifs/home.gif" width="250" />
 </h1>
 
 ## :page_with_curl: Sobre
